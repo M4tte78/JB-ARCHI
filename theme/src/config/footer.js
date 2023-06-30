@@ -1,21 +1,13 @@
 export const footerSocials = [
-  {
-    name: 'Twitter',
-    url: 'https://twitter.com/littlesticksdev',
-    icon: "mdi:twitter",
-  },
-  {
-    name: 'Youtube',
-    url: 'https://youtube.com/c/LittleSticks',
-    icon: "mdi:youtube",
-  },
+  
+  
   {
     name: 'Github',
     url: 'https://github.com/littlesticks',
     icon: "mdi:github",
   },
   {
-    name: 'Discord',
+    name: 'Linkedin',
     url: 'https://littlesticks.dev/discord',
     icon: "ic:baseline-discord",
   },
@@ -23,7 +15,7 @@ export const footerSocials = [
 
 export const footerLists = [
 	{
-		title: 'Landing Pages',
+		title: 'Alternance',
 		items: [
 			{
 				title: 'Landing Page 1',
@@ -40,14 +32,14 @@ export const footerLists = [
 		],
 	},
 	{
-		title: 'Company',
+		title: 'JB',
 		items: [
 			{
-				title: 'About',
+				title: 'À propos',
 				slug: '/company/about',
 			},
 			{
-				title: 'Blog',
+				title: 'Projets',
 				slug: '/blog',
 			},
 			{
@@ -63,18 +55,7 @@ export const footerLists = [
 				title: 'Get Started',
 				slug: '/theme/get-started',
 			},
-			{
-				title: 'Style Guide',
-				slug: '/theme/style-guide',
-			},
-      {
-        title: 'Theme Setup',
-        slug: '/theme/theme-setup',
-      },
-      {
-        title: 'Customizing Odyssey',
-        slug: '/theme/customizing-odyssey',
-      }
+			
 		],
 	},
 ];
